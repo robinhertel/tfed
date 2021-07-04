@@ -8,4 +8,4 @@ implemented and tested to account for sensor noise. Additionally, a recurrent ne
 with a stacked LSTM architecture is defined which allows remaining useful life estimation without
 the necessity of an underlying structural fault propagation model.
 
-Please see "README Predictive Maintenance Project" for the full discussion.
+Please see "README Predictive Maintenance Project.pdf" for the full discussion.
