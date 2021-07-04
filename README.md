@@ -7,3 +7,5 @@ of a system's remaining useful life. In particular, various filter and smoothing
 implemented and tested to account for sensor noise. Additionally, a recurrent neural network model
 with a stacked LSTM architecture is defined which allows remaining useful life estimation without
 the necessity of an underlying structural fault propagation model.
+
+Please see "README Predictive Maintenance Project" for the full discussion.
